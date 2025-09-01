@@ -13,5 +13,6 @@ npm start
 ### Frontend (React.)
 To start the frontend server, run:
 ```bash
+npm install
 npm run dev
 ```
